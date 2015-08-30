@@ -1,6 +1,4 @@
-#Inspiration
-
-##JA2:
+#JA2:
 
 * merc management
   * budget
@@ -13,7 +11,7 @@
   * heroes can be utilized for more than just combat
 * morale
 
-##Darklands
+#Darklands
 
 * encounters
   * options varied depending on party makeup
@@ -24,7 +22,7 @@
   * extremely rich skill system
 * skills raise with use
 
-##Massive Chalice
+#Massive Chalice
 
 * bloodlines
   * monster rancher-like combining of heroes
@@ -33,17 +31,17 @@
 * worker placement
   * heroes can be utilized for more than just combat
 
-##FTL
+#FTL
 
 * skills raise with use
 * (relatively) quick iteration time
   * price for failure is an hour lost, not days
 
-##Fallout Shelter
+#Fallout Shelter
 
 * happiness / unhappiness
 
-##Fantasy football
+#Fantasy football
 
 * drafting / limited player pool
 * picking lineups per match
