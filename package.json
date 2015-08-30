@@ -1,0 +1,24 @@
+{
+  "name": "merc",
+  "version": "1.0.0",
+  "description": "A merc sim",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive ./test",
+    "start": "mocha --watch --recursive ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bmceldowney/merc.git"
+  },
+  "author": "Ben McEldowney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmceldowney/merc/issues"
+  },
+  "homepage": "https://github.com/bmceldowney/merc",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
