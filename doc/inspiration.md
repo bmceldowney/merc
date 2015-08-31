@@ -47,3 +47,9 @@
 * picking lineups per match
   * not every player is eligible
 * injuries
+
+#Chaos Overlords
+
+* lots of distinct gangs to hire
+* completely deterministic combat
+* worker placement
